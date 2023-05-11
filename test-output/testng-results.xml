@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-10T23:40:47 IST" name="Suite" finished-at="2023-05-10T23:40:47 IST" duration-ms="46">
+    <groups>
+    </groups>
+    <test started-at="2023-05-10T23:40:47 IST" name="Test" finished-at="2023-05-10T23:40:47 IST" duration-ms="46">
+      <class name="Test.StoreTest">
+        <test-method signature="shouldReturnEmptyPlaylistWhenUserHaveNotPlayedAnySongs()[pri:0, instance:Test.StoreTest@52102734]" started-at="2023-05-10T23:40:47 IST" name="shouldReturnEmptyPlaylistWhenUserHaveNotPlayedAnySongs" finished-at="2023-05-10T23:40:47 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldReturnEmptyPlaylistWhenUserHaveNotPlayedAnySongs -->
+        <test-method signature="shouldReturnOneSongWhenUserPlayedFirstSong()[pri:0, instance:Test.StoreTest@52102734]" started-at="2023-05-10T23:40:47 IST" name="shouldReturnOneSongWhenUserPlayedFirstSong" finished-at="2023-05-10T23:40:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldReturnOneSongWhenUserPlayedFirstSong -->
+      </class> <!-- Test.StoreTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
